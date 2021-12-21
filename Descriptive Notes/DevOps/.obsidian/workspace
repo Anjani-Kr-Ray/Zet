@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "45b98047f8d6662e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4251b5dbd74441f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Intro_to_DevOps.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0d79e1135054dda",
+    "type": "split",
+    "children": [
+      {
+        "id": "23533f2108816359",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d75414d12dd509ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db0ad8c0bb60b28b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c289fd698433b985",
+    "type": "split",
+    "children": [
+      {
+        "id": "1825e8a035a99da8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bcb90b47d01c094",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Intro_to_DevOps.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4251b5dbd74441f9",
+  "lastOpenFiles": [
+    "Intro_to_DevOps.md"
+  ]
+}
