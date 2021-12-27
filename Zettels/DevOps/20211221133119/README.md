@@ -1,4 +1,4 @@
-# Intro To DevOps
+# Introduction To DevOps
 
 - [Complete Software Development Process](https://github.com/Anjani-Kr-Ray/Zet/blob/master/Descriptive%20Notes/DevOps/Intro_to_DevOps.md#complete-software-development-process)
 	- Programming

@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intro_to_DevOps.md",
-            "mode": "preview"
+            "file": "Intro_to_Operating_System.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -52,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c289fd698433b985",
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intro_to_DevOps.md",
+                "file": "Intro_to_Operating_System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +90,7 @@
   },
   "active": "4251b5dbd74441f9",
   "lastOpenFiles": [
+    "Intro_to_Operating_System.md",
     "Intro_to_DevOps.md"
   ]
 }
