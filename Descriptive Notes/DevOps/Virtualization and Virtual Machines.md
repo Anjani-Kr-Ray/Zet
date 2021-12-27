@@ -10,7 +10,7 @@ But it is important to know that:
 
 Virtual Machines are completed isolated from each other i.e., if something breaks inside VM, it **doesn't affect the host machine**
 
-### Benefits of  a Virtual Machine
+### Benefits of a Virtual Machine
 1. __Learn and Experiment__
 	* You don't need to buy a new Computer for that
 	* You don't need to endanger your main OS
@@ -18,7 +18,7 @@ Virtual Machines are completed isolated from each other i.e., if something break
 2. __Test your app on different OS__
 
 ### Type 1 vs Type 2 Hypervisor
-![](C:\Users\Anjani\Pictures\diff_hypervisor.jpeg "Type 1 vs Type 2 Hypervisor")
+![](https://github.com/Anjani-Kr-Ray/Zet/blob/master/Images/diff_hypervisor.jpeg)
 
 A __Type 1 hypervisor__ runs directly on the host machine's physical hardware, and it's referred to as a bare-metal hypervisor. The Type 1 hypervisor doesn't have to load an underlying OS. With direct access to the underlying hardware and no other software -- such as OSes and device drivers -- to contend with for virtualization, Type 1 hypervisors are regarded as the most efficient and best-performing hypervisors available for enterprise computing.
 

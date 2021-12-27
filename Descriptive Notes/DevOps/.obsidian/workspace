@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c289fd698433b985",
@@ -91,7 +90,7 @@
   "active": "4251b5dbd74441f9",
   "lastOpenFiles": [
     "Virtualization and Virtual Machines.md",
-    "Intro_to_Operating_System.md",
-    "Intro_to_DevOps.md"
+    "Intro_to_DevOps.md",
+    "Intro_to_Operating_System.md"
   ]
 }
