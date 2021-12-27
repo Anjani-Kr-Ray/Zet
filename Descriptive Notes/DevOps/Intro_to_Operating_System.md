@@ -61,7 +61,7 @@ Operating System is reponsible for allocating and managing hardware resources li
 	
 	 > __Question:__
 	 > How to interact with kernel?
-		 >* using `GUI` or `CLI`
+	 > * using `GUI` or `CLI`
 	
 
 
