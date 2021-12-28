@@ -7,7 +7,7 @@
 * /bin: executables for most essential user commands
 * /sbin: commands that are system relevant and requires super user permission to execute them (mainly used by admins)
 * /lib: essential shared libraries that executables from /bin and /sbin use
-* /usr: this was used for users home directories. It also contains /bin, /sbin etc and also contains same executable files as that of root /bin or /sbin. Due to storage limitations it was split to root binary folders and user binary folders previously. **Remember that whenver we use any commands it is mostly executed from user bin folder**
+* /usr: this was used for users home directories. It also contains /bin, /sbin etc and also contains same executable files as that of root /bin or /sbin. Due to storage limitations it was split to root binary folders and user binary folders previously. **Remember that whenever we use any commands it is mostly executed from user bin folder**
 * /usr/local: programs that we install on the computer i.e., 3rd party applications like `docker`, `minikube`, `java` will be installed here and will be available for all users on the computer
 * /opt: third-party programs that doesn't split their files in different directories will be installed here
 * /boot: contains files required for booting
