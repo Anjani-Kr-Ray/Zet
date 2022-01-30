@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c289fd698433b985",
@@ -90,8 +91,11 @@
   "active": "4251b5dbd74441f9",
   "lastOpenFiles": [
     "Intro to Linux File System and CLI.md",
-    "Intro_to_Operating_System.md",
+    "Users and Permissions.md",
+    "Introduction to Vi & Vim.md",
+    "Package Manager.md",
     "Virtualization and Virtual Machines.md",
+    "Intro_to_Operating_System.md",
     "Intro_to_DevOps.md"
   ]
 }

@@ -87,3 +87,25 @@ __Key Combinations__:
 > * Display OS Release: `cat /etc/os-release`
 > * Display CPU Information: `lscpu`
 > * Display Memory Information: `lsmem`
+
+### Pipes and Redirects
+
+##### Input, Output and Pipes in Linux
+ * Every program has an input and output
+ * The output from one program can become the input of another command
+ * Pipe command `|` : Pipes the output of the previous command as an input to the next command
+ * Example : `cat /var/log/syslog | less`
+
+> __Note:__
+> <u>Less</u>
+> * Less displays the contents of a file or a command output, one page at a time
+> * Allows you to navigate forward and backward through the file
+> * mostly used for opening large files, as less doen't read the entire file, which results in faster load times
+
+* grep (Globally Search for Regular Expression and Print out) : searches for a particular pattern of characters and displays all lines that contain that pattern
+* Example: `history | grep "sudo chmod"`
+
+##### Redirects in Linuxx
+* > character is the redirect operator
+* >> allows us to update a existing file
+* Takes the output from the previous command and sends it to a file that we give
